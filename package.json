@@ -47,7 +47,7 @@
     "leeroy <leeroy.brun@gmail.com>",
     "shawn <sang.dao@newoceaninfosys.com>"
   ],
-  "name": "@nois/sails-util-mvcsloader",
+  "name": "@logisticinfotech/sails-util-mvcsloader",
   "optionalDependencies": {},
   "repository": {
     "type": "git",
