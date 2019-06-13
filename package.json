@@ -1,7 +1,7 @@
 {
   "author": "Leeroy Brun, Aumard Jimmy, Shawn Dao",
   "bugs": {
-    "url": "https://github.com/newoceaninfosys/sails-util-mvcsloader/issues"
+    "url": "https://github.com/logisticinfotech/sails-util-mvcsloader/issues"
   },
   "contributors": [
     "Leeroy Brun <leeroy.brun@gmail.com>",
@@ -19,7 +19,7 @@
   "directories": {
     "example": "example"
   },
-  "homepage": "https://github.com/newoceaninfosys/sails-util-mvcsloader",
+  "homepage": "https://github.com/logisticinfotech/sails-util-mvcsloader",
   "keywords": [
     "sails hook loader",
     "sails plugins system",
@@ -51,7 +51,7 @@
   "optionalDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/newoceaninfosys/sails-util-mvcsloader.git"
+    "url": "git+https://github.com/logisticinfotech/sails-util-mvcsloader.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
